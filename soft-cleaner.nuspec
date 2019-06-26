@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>soft-cleaner</id>
+    <version>1.2019.4.5</version>
+    <packageSourceUrl>https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-HigPw</packageSourceUrl>
+    <owners>satheeshsoft</owners>
+    <title>Soft Cleaner</title>
+    <authors>satheeshsoft</authors>
+    <projectUrl>http://www.softcleaner.in</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-HigPw/master/scinstalls128.png</iconUrl>
+    <copyright>2019 satheeshsoft</copyright>
+    <licenseUrl>http://www.softcleaner.in/privacy-policy</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>http://www.softcleaner.in/live-analysis</docsUrl>
+    <mailingListUrl>http://www.softcleaner.in/contact</mailingListUrl>
+    <bugTrackerUrl>https://groups.google.com/forum/#!forum/satheeshsoft</bugTrackerUrl>
+    <tags>cleaner optimization free file disk utilities soft-cleaner system admin</tags>
+    <summary>Soft Cleaner</summary>
+    <description><![CDATA[
+	<b>Soft Cleaner</b> is (License: Free) high powerful software for optimize, speed up, clean and protect your PC.	 
+It works with an Auto-Inbuilt system. Includes a self configuring memory optimizer. Set <b><i>AUTO</i></b> for quick action or set <b><i>BASE</b></i> for powerful basement speed up, fastest system optimization. Please close other opened programs for basement optimization. 99% speed up PC performance in current configuration. Speed up and optimize your PC quickly. Explore your own world in real speed. Download and work Soft Cleaner today. <br></br>
+<h1><u>Advanced Features</u></h1>
+<b><i>PC OPTIMIZE AND SPEED UP UTILITY</b></i><br>
+Broadcast Health Status: Motherboard, OS, Processors, BIOS, Disk<br>
+Secure internet privacy, Optimize real system performance<br>
+Instant speed boost<br>
+Validate slow responding peripherals, Increase boot speed<br>
+Automated configured cleaner, One touch optimize, Clean<br>
+Fast Privacy Trash Utility, Speed up your browsing, Patch cleaner<br>
+Energize entire system resources, Inbuilt optimize - Speed up - High powerful system cleaner, Better PC health<br>
+Easy of access, Friendly simple GUI, Normal/Novice/Gaming PC users, Speed up normal/client and server systems<br>
+Clean internet traces - Internet Explorer/Microsoft Edge, Chrome, Firefox, Vivaldi, Opera, UC Browser, Safari, Chromium<br>
+PC Optimize - Speed up <b><i>BASE</b></i>: Highest level optimization, Free up invalid memory, Memory Optimizer, Optimize I/O speed - RAM - Working processes - Virtual Memory  <b><i>BASE OPTIMIZATION</b></i><br>
+Multi - FilesSearch - Search multiple and disordered/inaccurately named files<br>
+Virus Cleaner - Clean numerous sticky virus file<br></br>
+<i>Perform Analyse and Optimize.</i><br></br>
+<img src="https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-HigPw/master/Soft%20Cleaner%20Optimization%20Peak.png" alt="Speed up your computer"><br></br>
+<h1><u>Tools</h1></u><br>
+<b>Multiple Files Search Engines: Multi - FilesSearch</b><br>
+Powerful search up to ten different files at a time with ten different keywords. High speed search filter. Case sensitive search analysis. 
+Details will be stored on your desktop ‘Soft Cleaner Multi - FilesSearch.txt’. Multi - FilesSearch searches exact files and the very near matches from keywords.
+Search different types or all similar files at a time.<br>
+Example 1: bmp, *.jpg/.jpg/., service, gif, documents, 2019, movie eng, setup, help.html, song.mp4File name: 182019.png or 182019photo<br>
+Example 2: 18 2019, png, photo/2019, png/19, png, photo/82, png<br>
+Search Path: C:\<br></br>
+<b>Sensitive</b><br>
+Highly case Sensitive search for a single or exact file with ten different keywords.
+Search one or particular file (filename: searchhost/hostsearch/aerolite.dll/dllaero.lite/litedll.aero)<br>
+Example 1: search host<br>
+Example 2: Aero, dll, lite<br>
+Example 3: lite  aero  dll<br>
+Example 4: aero, dll<br>
+Example 5: lite<br>
+Search Path: C:\<br><br><i>Perform Analyse.</i></br></br>
+<b>Virus Cleaner</b></br>
+Clean numerous virus and sticky files from your PC. The high powerful virus cleaning engine which capable to continually enter inside virus files and perform uncompromising quick remedy. As per various types of virus and varying behavior scenario, the different Antivirus solutions can monitor uncommon viruses depend on the latest virus update and behavior.
+Write virus/sticky files locations one by one on desktop 'Soft Cleaner - Virus Cleaner.txt'. <i><br><br>Perform Analyse and Optimize.</i><br><br>
+<b>Advantage:</b><br>
+Almost heavy memory usage apps can too provide more performance due to the systematic PC optimization process of <b>Soft Cleaner</b>.<br>
+	]]></description>
+    <releaseNotes>Important update</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
