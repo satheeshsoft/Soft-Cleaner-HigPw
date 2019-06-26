@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
-    <id>soft-cleaner</id>
+    <id>scinstalls</id>
     <version>1.2019.4.5</version>
     <packageSourceUrl>https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-HigPw</packageSourceUrl>
     <owners>satheeshsoft</owners>
