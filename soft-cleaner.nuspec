@@ -3,7 +3,7 @@
   <metadata>
     <id>scinstalls</id>
     <version>1.2019.4.5</version>
-    <packageSourceUrl>https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-HigPw</packageSourceUrl>
+    <packageSourceUrl>https://github.com/satheeshsoft/Soft-Cleaner-HigPw</packageSourceUrl>
     <owners>satheeshsoft</owners>
     <title>Soft Cleaner</title>
     <authors>satheeshsoft</authors>
@@ -15,7 +15,7 @@
     <docsUrl>http://www.softcleaner.in/live-analysis</docsUrl>
     <mailingListUrl>http://www.softcleaner.in/contact</mailingListUrl>
     <bugTrackerUrl>https://groups.google.com/forum/#!forum/satheeshsoft</bugTrackerUrl>
-    <tags>cleaner optimization free file disk utilities soft-cleaner system admin</tags>
+    <tags>cleaner optimization free cleanup disk utilities soft-cleaner system admin</tags>
     <summary>Soft Cleaner</summary>
     <description><![CDATA[
 	<b>Soft Cleaner</b> is (License: Free) high powerful software for optimize, speed up, clean and protect your PC.	 
